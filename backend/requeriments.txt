@@ -1,0 +1,5 @@
+flask
+transformers
+google-api-python-client
+whatsapp-web.js
+qrcode-terminal
